@@ -1,0 +1,13 @@
+D:\baitap\LopPoint2DVaPoint3D\bin\Debug\netcoreapp3.1\LopPoint2DVaPoint3D.exe
+D:\baitap\LopPoint2DVaPoint3D\bin\Debug\netcoreapp3.1\LopPoint2DVaPoint3D.deps.json
+D:\baitap\LopPoint2DVaPoint3D\bin\Debug\netcoreapp3.1\LopPoint2DVaPoint3D.runtimeconfig.json
+D:\baitap\LopPoint2DVaPoint3D\bin\Debug\netcoreapp3.1\LopPoint2DVaPoint3D.runtimeconfig.dev.json
+D:\baitap\LopPoint2DVaPoint3D\bin\Debug\netcoreapp3.1\LopPoint2DVaPoint3D.dll
+D:\baitap\LopPoint2DVaPoint3D\bin\Debug\netcoreapp3.1\LopPoint2DVaPoint3D.pdb
+D:\baitap\LopPoint2DVaPoint3D\obj\Debug\netcoreapp3.1\LopPoint2DVaPoint3D.csprojAssemblyReference.cache
+D:\baitap\LopPoint2DVaPoint3D\obj\Debug\netcoreapp3.1\LopPoint2DVaPoint3D.AssemblyInfoInputs.cache
+D:\baitap\LopPoint2DVaPoint3D\obj\Debug\netcoreapp3.1\LopPoint2DVaPoint3D.AssemblyInfo.cs
+D:\baitap\LopPoint2DVaPoint3D\obj\Debug\netcoreapp3.1\LopPoint2DVaPoint3D.csproj.CoreCompileInputs.cache
+D:\baitap\LopPoint2DVaPoint3D\obj\Debug\netcoreapp3.1\LopPoint2DVaPoint3D.dll
+D:\baitap\LopPoint2DVaPoint3D\obj\Debug\netcoreapp3.1\LopPoint2DVaPoint3D.pdb
+D:\baitap\LopPoint2DVaPoint3D\obj\Debug\netcoreapp3.1\LopPoint2DVaPoint3D.genruntimeconfig.cache
